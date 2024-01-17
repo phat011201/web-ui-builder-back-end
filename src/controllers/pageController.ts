@@ -5,8 +5,6 @@ import { Request, Response } from "express";
 
 // import serives
 import PageService from "../services/pageService";
-
-// import interfaces
 import IComponent from "../interfaces/IPage";
 
 const pageService = new PageService();

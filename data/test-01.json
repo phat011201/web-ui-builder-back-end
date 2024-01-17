@@ -1,7 +1,7 @@
 {
   "name": "body",
   "props": {
-    "style": "background-color: #f4f4f4; padding: 20px; font-family: Arial, sans-serif;"
+    "style": "background-color: #f4f4f4; font-family: Arial, sans-serif; margin: 0;"
   },
   "children": [
     {
@@ -45,6 +45,847 @@
               "children": "Mua ngay"
             }
           ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
+        },
+        {
+          "name": "article",
+          "props": {
+            "style": "border: 1px solid #ddd; padding: 20px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+          },
+          "children": [
+            {
+              "name": "h2",
+              "props": {
+                "style": "color: #333; font-size: 18px; margin-bottom: 10px;"
+              },
+              "children": "Sản phẩm 1"
+            },
+            {
+              "name": "p",
+              "props": {
+                "style": "color: #666;"
+              },
+              "children": "Mô tả ngắn về sản phẩm 1."
+            },
+            {
+              "name": "button",
+              "props": {
+                "style": "background-color: #4CAF50; color: #fff; padding: 10px; border: none; cursor: pointer;"
+              },
+              "children": "Mua ngay"
+            }
+          ]
         }
       ]
     },
@@ -53,7 +894,7 @@
       "props": {
         "style": "background-color: #333; color: #fff; padding: 10px; text-align: center; position: fixed; bottom: 0; width: 100%;"
       },
-      "children": "© 2024 Trang Bán Hàng. All rights reserved."
+      "children": "© 2024 phat huynh. All rights reserved."
     }
   ]
 }
